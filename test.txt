@@ -1,0 +1,3 @@
+https://webdevblog.ru/nuxt-js-minimalistichnyj-frejmvork-dlya-sozdaniya-universalnyh-prilozhenij-vue-js/
+
+
